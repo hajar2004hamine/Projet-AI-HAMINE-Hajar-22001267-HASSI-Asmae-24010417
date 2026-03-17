@@ -1,0 +1,26 @@
+Transaction_ID;Employee_ID;Department;Base_Location;Expense_Location;Expense_Category;Amount;Expense_Date;Is_Weekend;Submission_Delay_Days;Employee_Level;Geographic_Anomaly;Is_Fraud
+TRX_000000;EMP_0001;Sales;Paris;Paris;Restauration;35.50;14-02-25;0;3;1;0;0
+TRX_000001;EMP_0002;IT;Lyon;Lyon;Transports;12.00;01-03-25;1;1;2;0;0
+TRX_000002;EMP_0003;Executive;Paris;London;Hébergement;250.00;10-04-25;0;5;3;1;0
+TRX_000003;EMP_0001;Sales;Paris;Marseille;Restauration;85.20;22-05-25;0;2;1;1;0
+TRX_000004;EMP_0004;HR;Lille;Lille;Restauration;120.50;15-06-25;1;4;1;0;1
+TRX_000005;EMP_0005;Consulting;Bordeaux;Berlin;Transports;350.00;08-07-25;0;12;2;1;0
+TRX_000006;EMP_0002;IT;Lyon;Lyon;Transports;180.00;19-08-25;0;2;2;0;1
+TRX_000007;EMP_0006;Marketing;Paris;Paris;Fournitures;49.90;05-09-25;0;1;1;0;1
+TRX_000008;EMP_0001;Sales;Paris;Paris;Restauration;42.00;12-10-25;1;4;1;0;0
+TRX_000009;EMP_0003;Executive;Paris;Paris;Restauration;150.00;20-11-25;0;65;3;0;0
+TRX_000010;EMP_0005;Consulting;Bordeaux;Bordeaux;Hébergement;99.90;01-12-25;0;5;2;0;1
+TRX_000011;EMP_0004;HR;Lille;Berlin;Transports;450.00;15-01-25;0;85;1;1;1
+TRX_000012;EMP_0007;IT;Marseille;Marseille;Autre;25.00;28-02-25;0;2;2;0;0
+TRX_000013;EMP_0006;Marketing;Paris;Lyon;Restauration;55.00;10-03-25;0;7;1;1;0
+TRX_000014;EMP_0002;IT;Lyon;Lyon;Transports;14.50;05-04-25;1;1;2;0;0
+TRX_000015;EMP_0001;Sales;Paris;New York;Hébergement;450.00;18-05-25;0;10;1;1;0
+TRX_000016;EMP_0004;HR;Lille;Lille;Restauration;85.00;22-06-25;1;3;1;0;1
+TRX_000017;EMP_0005;Consulting;Bordeaux;Paris;Transports;120.00;30-07-25;0;4;2;1;0
+TRX_000018;EMP_0003;Executive;Paris;Paris;Restauration;49.50;14-08-25;0;2;3;0;1
+TRX_000019;EMP_0006;Marketing;Paris;Paris;Fournitures;15.00;25-09-25;0;1;1;0;0
+TRX_000020;EMP_0007;IT;Marseille;Marseille;Transports;195.00;08-10-25;0;5;2;0;1
+TRX_000021;EMP_0001;Sales;Paris;Paris;Restauration;28.50;12-11-25;0;2;1;0;0
+TRX_000022;EMP_0002;IT;Lyon;Lyon;Transports;9.00;19-12-25;0;1;2;0;0
+TRX_000023;EMP_0005;Consulting;Bordeaux;London;Hébergement;180.00;05-01-25;0;15;2;1;0
+TRX_000024;EMP_0004;HR;Lille;Lille;Transports;25.00;10-02-25;0;70;1;0;1
