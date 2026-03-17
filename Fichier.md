@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Cours** | Intelligence Artificielle - Contrôle, Audit et Conseil |
-| **Établissement** | ENCG Settat - 4ème année |
-| **Professeur** | A. Larhlimi |
+| **Module** | Intelligence Artificielle  |
+| **Filière** | Contrôle, Audit et Conseil  - Semestre 8 |
+| **Encadrant** |M. Abderrahim Larhlimi |
 | **Date** | 17 Mars 2026 |
 | **Elaborée par** | HAMINE Hajar et HASSI Asmae |
 
