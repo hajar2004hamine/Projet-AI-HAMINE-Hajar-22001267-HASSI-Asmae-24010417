@@ -6,7 +6,7 @@
 | **Filière** | Contrôle, Audit et Conseil  - Semestre 8 |
 | **Encadrant** |M. Abderrahim Larhlimi |
 | **Date** | 17 Mars 2026 |
-| **Elaborée par** | HAMINE Hajar et HASSI Asmae |
+| **Elaborée par** | HAMINE Hajar et HASSI Asmae 22001267-24010417 |
 
 ## Table des matières
 * **[Contexte de l'étude](#contexte-de-letude)**
